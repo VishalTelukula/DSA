@@ -1,2 +1,2 @@
 # DSA
-All the DSA problems Solved by me 
+All the data Structures and algorithms
